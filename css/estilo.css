@@ -1,0 +1,35 @@
+table{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+tr{
+    height: 40px;
+}
+
+td{
+    width: 55px;
+}
+
+button{
+    height: 27px;
+    width: 50px;
+    background-color: #F1F3F4;
+    border-radius: 5px;
+}
+
+.operacoes{
+    background-color: #DFE1E5;
+}
+
+#igual{
+    background-color: #4285F4;
+    color: white
+}
+
+#visor{
+    height: 20px;
+    width: 210px;
+    text-align: right;
+    border-radius: 5px;
+}
